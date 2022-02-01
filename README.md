@@ -1,7 +1,7 @@
 
 ###  :construction: Hi there! 👋 This profile is under construction   :construction:
 
-## WIP :)
+
 <div align="left" disabled=true >
 <img   align="right" width="450px"  src="https://github-readme-stats.vercel.app/api?username=fuakim&count_private=true&show_icons=true&theme=react"/>
   
@@ -16,15 +16,14 @@
   </a>
 <br/>
 <br/>
-  <a href="#" target="_blank"> 
+  	<a href="#" target="_blank"> 
 		<img  align="left"  height="30px" width="100px"   src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 	</a>
-		</div> 
+</div> 
 <br/>
 
 
 <!--
-**Bran-mf/Bran-mf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
